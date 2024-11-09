@@ -15965,7 +15965,7 @@
       }, function (a, c) {
         onComplite();
       });
-    } else onComplite();
+    onComplite();
   } // нужна заглушка, а то при страте лампы говорит пусто
 
 
